@@ -2,3 +2,5 @@ tmp/todoList
 .idea/*
 *.txt
 *.c
+*.xml
+
