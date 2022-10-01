@@ -3,4 +3,8 @@ tmp/todoList
 *.txt
 *.c
 *.xml
+<<<<<<< HEAD
 *.add4
+=======
+*.py
+>>>>>>> 194fa3a435024b49e0b61750e0975556c637b00c
